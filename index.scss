@@ -1,0 +1,9 @@
+$mainColor: #7777bb;
+
+#root {
+    background-color: $mainColor;
+
+    p {
+        text-transform: uppercase;
+    }
+}
